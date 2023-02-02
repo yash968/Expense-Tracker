@@ -1,0 +1,3 @@
+components are reusable buidling blocks in user interface 
+components are combination of css,js and html code blocks
+ctrl +k and click s to save all the files in the workign directory
